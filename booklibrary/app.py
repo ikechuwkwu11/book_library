@@ -4,7 +4,7 @@ from flask_login import login_user,logout_user,LoginManager
 import os
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'iyke'
+app.config['SECRET_KEY'] = ' '
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///book_library.db'
 
 db.init_app(app)
