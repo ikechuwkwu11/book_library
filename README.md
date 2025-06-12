@@ -11,7 +11,6 @@ A simple and intuitive CRUD web application built with Flask for managing a pers
 - Flash messaging for user feedback and actions
 
 ## 🛠 Tech Stack
----
 - Layer	Technology
 - Backend	Python, Flask
 - Auth	Flask-Login
@@ -19,13 +18,11 @@ A simple and intuitive CRUD web application built with Flask for managing a pers
 - Frontend	HTML, Jinja2 Templates
 
 ## ✅ Usage Tips
----
 - New users must register before logging in.
 - All book management features require login.
 - Flash messages will confirm user actions and errors.
 
 ## 🧪 Future Enhancements
----
 - Upload book cover images
 - Search or filter books by title/author
 - Pagination for large book collections
